@@ -18,10 +18,12 @@ $$
 \hat{H}_0 = -\mu - t \sum_{\vec{n}} (c_{\vec{n}+\vec{\delta}}^{\dagger} \; c_{\vec{n}} + h.c.)
 $$
 where $\vec{\delta}$ denotes the nearest neighbor displacement.
+
 $$
 \hat{\Delta} = \Delta_0  \sum_{\vec{n}} (c_{\vec{n}} c_{\vec{n}+\vec{\delta}x} + c_{\vec{n}+\vec{\delta}x}^{\dagger} c_{\vec{n}}^{\dagger}) + i \Delta_0 \sum_{\vec{n}} (c_{\vec{n}} c_{\vec{n}+\vec{\delta}y} - c_{\vec{n}+\vec{\delta}y}^{\dagger} c_{\vec{n}}^{\dagger}) 
 $$
 where the indices
+
 $$
 \vec{n} = (n_x, n_y) \quad \text{denote a position on the lattice.}
 $$
@@ -37,6 +39,7 @@ Let $ \Phi = (\vec{u}, \vec{v})^T $ where $ \vec{u} = (u_1, \ldots, u_N) $, $ \v
 The probability distribution for each sites is $p_i =  (|u_i|^2 + |v_i|^2) $
 
 To identify an edge state one requirement is that the probability distribution on the edges are significantly greater than the rest, i.e.
+
 $$
 p_{\text{edge}} = \sum_{i \in \text{edge}} p_i > P_0,
 $$
