@@ -17,11 +17,13 @@ $$
 $$
 \hat{H}_0 = -\mu - t \sum_{\vec{n}} (c_{\vec{n}+\vec{\delta}}^{\dagger} \; c_{\vec{n}} + h.c.)
 $$
+
 where $\vec{\delta}$ denotes the nearest neighbor displacement.
 
 $$
 \hat{\Delta} = \Delta_0  \sum_{\vec{n}} (c_{\vec{n}} c_{\vec{n}+\vec{\delta}x} + c_{\vec{n}+\vec{\delta}x}^{\dagger} c_{\vec{n}}^{\dagger}) + i \Delta_0 \sum_{\vec{n}} (c_{\vec{n}} c_{\vec{n}+\vec{\delta}y} - c_{\vec{n}+\vec{\delta}y}^{\dagger} c_{\vec{n}}^{\dagger}) 
 $$
+
 where the indices
 
 $$
@@ -43,6 +45,7 @@ To identify an edge state one requirement is that the probability distribution o
 $$
 p_{\text{edge}} = \sum_{i \in \text{edge}} p_i > P_0,
 $$
+
 where $P_0 \in (0,1)$ is some threshold probability to distinguish the edged states from the rest.
 
 
