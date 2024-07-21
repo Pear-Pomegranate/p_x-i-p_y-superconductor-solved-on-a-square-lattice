@@ -17,11 +17,8 @@ $$
 
 Here 
 
-$$
-H_0 = -\mu -\Delta_0  \sum_{\vec{n}} (c_{\vec{n}} c_{\vec{n}+\vec{\delta}x} + c_{\vec{n}+\vec{\delta}x}^{\dagger} c_{\vec{n}}^{\dagger}) + i \Delta_0 \sum_{\vec{n}} (c_{\vec{n}} c_{\vec{n}+\vec{\delta}y} - c_{\vec{n}+\vec{\delta}y}^{\dagger} c_{\vec{n}}^{\dagger}) 
-$$
 
-$${H}_{0} = -\mu - t\sum{\vec{n}}(c_{\vec{n}+\vec{\delta}}^{\dagger}c_{\vec{n}} + h.c.)$$
+$${H}_0 = -\mu - t\sum{\vec{n}}(c_{\vec{n}+\vec{\delta}}^{\dagger}c_{\vec{n}} + h.c.)$$
 
 where $\vec{\delta}$  denotes the nearest neighbor displacement.
 
