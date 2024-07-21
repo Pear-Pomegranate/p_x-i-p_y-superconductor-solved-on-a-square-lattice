@@ -37,7 +37,7 @@ The model Hamiltonian is related to the BdG Hamiltonian via  $ H = \frac{1}{2} C
 
 Therefore the first half of the eigenvector for $ H_{BdG} $ stands for particle (holing) state, the second half corresponds to the hole-like state.
 
-Let \[ \Phi = (\vec{u}, \vec{v})^T \] where $ \vec{u} = (u_1, \ldots, u_N) $, $ \vec{v} = (v_1, \ldots, v_N) $, be the eigenvector of $ H_{BdG} $.
+Let $\Phi = (\vec{u}, \vec{v})^T$ where $ \vec{u} = (u_1, \ldots, u_N) $, $ \vec{v} = (v_1, \ldots, v_N) $, be the eigenvector of $ H_{BdG} $.
 
 The probability distribution for each sites is $p_i =  (|u_i|^2 + |v_i|^2) $
 
