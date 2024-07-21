@@ -63,7 +63,13 @@ where $P_0 \in (0,1)$ is some threshold probability to distinguish the edged sta
 
 ## Demo
 
-Insert gif or link to demo
+- The energy bands as a function of the chemical potential
+![E_vs_mu](https://github.com/user-attachments/assets/5ff50005-9a1b-4f64-a794-9178e6ab47f9)
+- The probability density distribution of the edge states on the lattices
+![edge_states_density_plot](https://github.com/user-attachments/assets/410824fe-8ad9-4571-aa24-54588071da11)
+- The probability density distribution of the edge states on the lattices for electron and hole states respectively.
+![edge_states_p_h_density_plot](https://github.com/user-attachments/assets/d7a4b3e4-76a4-4083-8124-d4841d70116f)
+
 
 
 ## License
