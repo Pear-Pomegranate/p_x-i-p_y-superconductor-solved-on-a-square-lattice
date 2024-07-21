@@ -18,7 +18,7 @@ $$
 Here 
 
 
-$$H_0 = -\mu - t\sum{\vec{n}}(c_{\vec{n}+\vec{\delta}}^{\dagger}c_{\vec{n}} + h.c.)$$
+$$H_0 = -\mu - t\sum_{\vec{n}}(c_{\vec{n}+\vec{\delta}}^{\dagger}c_{\vec{n}} + h.c.)$$
 
 where $\vec{\delta}$  denotes the nearest neighbor displacement.
 
