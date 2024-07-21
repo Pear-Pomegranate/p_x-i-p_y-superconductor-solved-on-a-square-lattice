@@ -14,6 +14,7 @@ $$
 \hat{\Delta}^{\dagger} & -\hat{H}_0
 \end{pmatrix}
 $$
+Here 
 
 $$\hat{H}_0 = -\mu - t \sum_{\vec{n}} (c_{\vec{n}+\vec{\delta}}^{\dagger}  c_{\vec{n}} + h.c. )$$
 
