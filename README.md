@@ -15,8 +15,7 @@ $$
 \end{pmatrix}
 $$
 
-$$
-\hat{H}_0 = -\mu - t \sum_{\vec{n}} (c_{\vec{n}+\vec{\delta}}^{\dagger}  c_{\vec{n}} + h.c. )
+$$\hat{H}_0 = -\mu - t \sum_{\vec{n}} (c_{\vec{n}+\vec{\delta}}^{\dagger}  c_{\vec{n}} + h.c. )
 $$
 
 where $\vec{\delta}$  denotes the nearest neighbor displacement.
@@ -31,11 +30,11 @@ $$
 \vec{n} = (n_x, n_y) \quad \text{denote a position on the lattice.}
 $$
 
-For a lattice size of $ N_x $ by $ N_y $, the $ H_{BdG} $ is $ 2N_xN_y $ by $ 2N_xN_y $.
+For a lattice size of $N_x $ by $N_y $, the $H_{BdG} $ is $2N_xN_y $ by $2N_xN_y $.
 
-The model Hamiltonian is related to the BdG Hamiltonian via  $ H = \frac{1}{2} C^{\dagger} H_{BdG} C $, where the $ C $ is the Nambu spinor $ C = (c_1, \ldots, c_N, c_1^{\dagger}, \ldots, c_N^{\dagger})^T $, and $N = N_x N_y$
+The model Hamiltonian is related to the BdG Hamiltonian via  $H = \frac{1}{2} C^{\dagger} H_{BdG} C$, where the $C$ is the Nambu spinor $C = (c_1, \ldots, c_N, c_1^{\dagger}, \ldots, c_N^{\dagger})^T $, and $N = N_x N_y$
 
-Therefore the first half of the eigenvector for $ H_{BdG} $ stands for particle (holing) state, the second half corresponds to the hole-like state.
+Therefore the first half of the eigenvector for $H_{BdG} $ stands for particle (holing) state, the second half corresponds to the hole-like state.
 
 Let $\Phi = (\vec{u}, \vec{v})^T$ where $ \vec{u} = (u_1, \ldots, u_N) $, $ \vec{v} = (v_1, \ldots, v_N) $, be the eigenvector of $ H_{BdG} $.
 
