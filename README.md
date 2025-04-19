@@ -48,7 +48,7 @@ $$
 p_{\text{edge}} = \sum_{i \in \text{edge}} p_i > P_0,
 $$
 
-where $P_0 \in (0,1)$ is some threshold probability to distinguish the edged states from the rest.
+where $P_0 \in (0,1)$ is some threshold probability to distinguish the edge states from the rest.
 
 
 
